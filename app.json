@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "kraamcommunity",
+    "description": "A very interesting project.",
+    "slug": "kraamcommunity",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
